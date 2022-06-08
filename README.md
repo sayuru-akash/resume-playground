@@ -1,6 +1,6 @@
 # playground-macos
 
-My portfolio website simulating macOS's GUI: https://portfolio.zxh.io
+My portfolio website simulating macOS's GUI: https://sayuru.dev
 
 Powered by [React](https://reactjs.org/) + [React Redux](https://react-redux.js.org/) + [UnoCSS](https://uno.antfu.me/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/).
 
@@ -36,6 +36,7 @@ pnpm build
 
 ## Credits
 
+- [Renovamen](https://github.com/Renovamen/playground-macos)
 - [macOS Big Sur](https://www.apple.com/in/macos/big-sur/)
 - [macOS Catalina](https://www.apple.com/bw/macos/catalina/)
 - [macOS Icon Gallery](https://www.macosicongallery.com/)
