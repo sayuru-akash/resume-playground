@@ -53,12 +53,6 @@ const websites: WebsitesData = {
         link: "https://github.com/"
       },
       {
-        id: "bilibili",
-        title: "Bilibili",
-        img: "img/sites/bilibili.svg",
-        link: "https://www.bilibili.com/"
-      },
-      {
         id: "pinterest",
         title: "Pinterest",
         img: "img/sites/pinterest.svg",
@@ -71,12 +65,6 @@ const websites: WebsitesData = {
         link: "https://dribbble.com/"
       },
       {
-        id: "arxiv",
-        title: "arXiv",
-        img: "img/sites/arxiv.png",
-        link: "https://arxiv.org/"
-      },
-      {
         id: "gmail",
         title: "Gmail",
         img: "img/sites/gmail.svg",
@@ -87,12 +75,6 @@ const websites: WebsitesData = {
         title: "LeetCode",
         img: "img/sites/leetcode.svg",
         link: "https://leetcode.com/"
-      },
-      {
-        id: "v2ex",
-        title: "V2EX",
-        img: "https://www.v2ex.com/apple-touch-icon.png",
-        link: "https://www.v2ex.com/"
       },
       {
         id: "reddit",
